@@ -1,4 +1,4 @@
-# Application de Gestion de Classes avec Signature en Ligne
+# Welcome Training : Application de Gestion de Classes avec Signature en Ligne
 
 ## Contexte
 Ce projet, réalisé dans le cadre de mon **BTS SIO SLAM**, consiste en une **application web** permettant de gérer les classes, les emplois du temps, les utilisateurs (enseignants, élèves et administrateurs) et la présence en cours. 
